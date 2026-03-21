@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;DSA+%7C+Backend+%7C+API+Testing;3%E2%AD%90+CodeChef+%7C+LeetCode+1610" alt="Typing SVG" />
   
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Sanjanarai44&label=Profile+views&color=6C63FF&style=flat" alt="profile views" />
-</div>
-
 ---
 
 Computer Science student passionate about building scalable backend systems, solving algorithmic problems, and creating efficient software solutions.
@@ -15,7 +11,9 @@ Computer Science student passionate about building scalable backend systems, sol
 
 - 🔭 Currently working on: Backend systems and API testing frameworks
 - 🌱 Learning: DSA, System Design, Backend Dev, and SDET
-- 🎯 2026 goals: Crack a top-tier SDE/SDET internship · Level up on CodeChef & LeetCode
+- 🎯 2026 goals:
+   * Consistently improve problem-solving skills and deepen system design understanding
+   * Build projects that solve real problems and contribute to open source
 - 📍 Based in India 🇮🇳
 - 💼 Open to: Internship opportunities (SDE / SDET)
 - 💬 Ask me about: DSA, backend dev, DBMS, API testing, problem-solving
