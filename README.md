@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjana+%F0%9F%91%8B;DSA+%7C+Backend+%7C+API+Testing;3%E2%AD%90+CodeChef+%7C+LeetCode+1610" alt="Typing SVG" />
-  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Sanjanarai44&label=Profile+views&color=6C63FF&style=flat" alt="profile views" />
+</div>
+
 ---
 
-Computer Science student passionate about building scalable backend systems, solving algorithmic problems, and creating efficient software solutions.
+<p align="center">Computer Science student passionate about building scalable backend systems, solving algorithmic problems, and creating efficient software solutions.</p>
 
 ---
 
@@ -12,8 +15,8 @@ Computer Science student passionate about building scalable backend systems, sol
 - 🔭 Currently working on: Backend systems and API testing frameworks
 - 🌱 Learning: DSA, System Design, Backend Dev, and SDET
 - 🎯 2026 goals:
-   * Consistently improve problem-solving skills and deepen system design understanding
-   * Build projects that solve real problems and contribute to open source
+  - Consistently improve problem-solving skills and deepen system design understanding
+  - Build projects that solve real problems and contribute to open source
 - 📍 Based in India 🇮🇳
 - 💼 Open to: Internship opportunities (SDE / SDET)
 - 💬 Ask me about: DSA, backend dev, DBMS, API testing, problem-solving
@@ -63,6 +66,8 @@ Computer Science student passionate about building scalable backend systems, sol
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjanarai44&theme=radical&hide_border=true" width="48%" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanarai44&layout=compact&theme=radical&hide_border=true" width="40%" />
 </div>
@@ -105,8 +110,10 @@ Computer Science student passionate about building scalable backend systems, sol
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjana-rai)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sanjanarai44)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raisanjana1017@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://codechef.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Sanjanarai44)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://codechef.com/users/Sanjanarai44)
+
+<br/>
 
 ⭐ **Actively looking for internships, collaborations, and challenging problem-solving opportunities!**
 
